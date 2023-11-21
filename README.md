@@ -10,7 +10,7 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/a6515df2-86a4-451b-951f-c886eab99d91)
 
-## 2.2 - Elaboração do diagrama de classes
+### 2.2 - Elaboração do diagrama de classes
 
 ### O diagrama de classes na sequência, representado pela figura 2, mostra os relacionamentos idealizados: 
 
