@@ -132,6 +132,17 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 Apesar dos diversos desafios que surgiram durante a execução do trabalho, como a má comunicação causada pela frequente queda da energia e/ou sinal de internet, a falta de familiaridade com algumas ferramentas, e a discordância de ideias em alguns momentos, o trabalho teve êxito. A elaboração do design da plataforma foi realizada utilizando o site do Canva, de maneira bastante satisfatória, e que poderá ser utilizado como modelo para o desenvolvimento do front e back end da plataforma a ser criada.
 
 
+# REFERÊNCIAS
+
+Lucid Software Portugês. Tutorial de Caso de Uso. YouTube, https://www.youtube.com/watch?v=ab6eDdwS3rA. Publicado em 25 de abril de 2019. Acessado em 16 de setembro de 2023.
+
+DevSuperior. Modelagem de domínio em nível conceitual com UML – Aulão #001. YouTube, https://www.youtube.com/watch?v=-X9aL2rqKhM&t=3194s. Publicado em 10 de junho de 2020. Acessado em 16 de setembro de 2023.
+
+Lucid Software Português. Tutorial de Diagramas de Classes UML. YouTube, https://www.youtube.com/watch?v=rDidOn6KN9k. Publicado em 21 de dezembro de 2018. Acessado em 16 de setembro de 2023.
+
+
+
+
 
 #### [Projeto Integrador III - Universidade UNIT - Grupo 5]
 
