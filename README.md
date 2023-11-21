@@ -128,11 +128,11 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/af89ac92-f2c8-4c88-9975-8bea246fbbf0)
 
 
-# CONCLUSÃO
+# 4 - CONCLUSÃO
 Apesar dos diversos desafios que surgiram durante a execução do trabalho, como a má comunicação causada pela frequente queda da energia e/ou sinal de internet, a falta de familiaridade com algumas ferramentas, e a discordância de ideias em alguns momentos, o trabalho teve êxito. A elaboração do design da plataforma foi realizada utilizando o site do Canva, de maneira bastante satisfatória, e que poderá ser utilizado como modelo para o desenvolvimento do front e back end da plataforma a ser criada.
 
 
-# REFERÊNCIAS
+# 5 - REFERÊNCIAS
 
 Lucid Software Portugês. Tutorial de Caso de Uso. YouTube, https://www.youtube.com/watch?v=ab6eDdwS3rA. Publicado em 25 de abril de 2019. Acessado em 16 de setembro de 2023.
 
